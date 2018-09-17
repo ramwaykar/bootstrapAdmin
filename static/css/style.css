@@ -1,0 +1,105 @@
+body{
+    background: #244;
+}
+
+#body{
+    background: #f1f1f1;
+    min-height: 540px;
+    padding-bottom: 10px;
+}
+
+#header, footer{
+    background: #a1a1a1;
+    padding-top: 10px;
+}
+
+footer{
+    padding-bottom: 10px;
+}
+
+.logo img{
+    width: 100px;
+}
+
+.form_container{
+    padding-top: 10px;
+}
+
+.login_form, .creationForm{
+    margin: 0 auto;
+    width: 70%;
+    padding: 5%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #fafafa;
+}
+
+.detailsForm{
+    margin: 0 auto;
+    width: 90%;
+    padding: 5%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #fafafa;
+}
+
+.accessDetailsHeading{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.searchForm, .installation_form{
+    width: 97.5%;
+    padding: 5%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: #fafafa;
+}
+
+.detailsForm .btn{
+    margin-left: 10px;
+}
+
+#welcome_user li{
+    list-style-type: none;
+    float: right;
+}
+
+#welcome_user li:last-child{
+    padding-top: 7px;
+    margin-right: 10px;
+}
+
+#list_top_buttons{
+    float: right;
+    margin-top: 10px;
+}
+
+#main-menu {
+    margin-top: 20px;
+}
+
+.action_buttons{
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.float-right{
+    float: right;
+}
+
+.delete-form h4{
+    margin-bottom: 50px;
+}
+
+.detail-view-bottom-buttons{
+    margin-top: 10px;
+}
+
+.hideBtn{
+    display: none!important;
+}
+
+.navbar-inverse{
+    background-color: #555;
+}

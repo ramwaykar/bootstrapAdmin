@@ -3,7 +3,7 @@
 <h5>Feature:</h5>
                 <ul>
                     <li>Easy Installable</li>
-                    <li>In-build user management</li>
+                    <li>In-built user management</li>
                     <li>In-built role management</li>
                     <li>DB Log Management</li>
                     <li>Dynamic query generator</li>
